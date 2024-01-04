@@ -1,1 +1,8 @@
 This study demonstrates liver disease prediction using Random Forest Algorithm!
+
+Precision: Precision is the ratio of true positive predictions to the total number of positive predictions made by the model. It measures how well the model correctly identifies positive instances. A high precision indicates a low number of false positives.
+
+Recall: Recall, also known as sensitivity or true positive rate, is the ratio of true positive predictions to the total number of actual positive instances in the data. It measures the model's ability to correctly identify positive instances. A high recall indicates a low number of false negatives.
+
+F1-score: The F1-score is the harmonic mean of precision and recall. It provides a single metric that balances both precision and recall. The F1-score is useful when you want to consider both false positives and false negatives in the evaluation.
+
